@@ -1,0 +1,58 @@
+﻿
+
+
+/******************"Lato"******************/
+
+@font-face {
+    font-family: "LatoLight";
+    src: url("../fonts/Lato/Lato-Light.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+@font-face {
+    font-family: "LatoLightItalic";
+    src: url("../fonts/Lato/Lato-LightItalic.ttf");
+    font-style: italic;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "LatoRegular";
+    src: url("../fonts/Lato/Lato-Regular.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "LatoSemibold";
+    src: url("../fonts/Lato/Lato-Semibold.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "LatoBlack";
+    src: url("../fonts/Lato/Lato-Black.ttf");
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "LatoItalic";
+    src: url("../fonts/Lato/Lato-Italic.ttf");
+    font-style: italic;
+    font-weight: normal;
+}
+
+/******************"Reklame"******************/
+
+@font-face {
+    font-family: "ReklameRegular";
+    src: url("../fonts/Reklame/ReklameScript-Regular_DEMO.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/******************"rarrar"******************/
